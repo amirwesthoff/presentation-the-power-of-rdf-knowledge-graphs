@@ -1,0 +1,6 @@
+jupyterlab
+rdflib
+owlrl
+lxml
+pyshacl
+pandas

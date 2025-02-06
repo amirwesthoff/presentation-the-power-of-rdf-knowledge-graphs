@@ -1,0 +1,26 @@
+<People>
+  <Person>
+    <id>12345</id>
+    <FullName>Tony Stark</FullName>
+    <Alias>Iron Man</Alias>
+    <BornIn>Manhattan, NYC</BornIn>
+    <Address>200 Park Avenue</Address>
+    <Phone>555-1234</Phone>
+    <DOB>1970-05-29</DOB>
+  </Person>
+  <Person>
+    <id>23456</id>
+    <FullName>Steve Rogers</FullName>
+    <Alias>Captain America</Alias>
+    <BornIn>Brooklyn, NYC</BornIn>
+    <Address>1614 Connecticut Ave NW</Address>
+    <DOB>1918-07-04</DOB>
+  </Person>
+  <Person>
+    <id>34567</id>  
+    <FullName>Natasha Romanoff</FullName>
+    <Alias>Black Widow</Alias>
+    <BornIn>Stalingrad</BornIn>
+    <DOB>1984-12-03</DOB>
+  </Person>
+</People>

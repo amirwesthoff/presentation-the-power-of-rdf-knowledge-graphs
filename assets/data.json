@@ -1,0 +1,22 @@
+[
+    {
+      "fullName": "Jon Snow",
+      "home": "The Wall",
+        "id": 456,
+        "playsInstrument": "Guitar",
+        "aka": "Lord Snow The Bastard of Winterfell"
+    },
+    {
+      "fullName": "Daenerys Targaryen",
+      "home": "Dragonstone",
+        "id": 567,
+        "aka": "Breaker of Chains"
+    },
+    {
+      "fullName": "Tyrion Lannister",
+      "home": "Casterly Rock",
+        "id": 678,
+        "playsInstrument": "Piano"
+    }
+  ]
+  
